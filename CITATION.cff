@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Knapp
+    given-names: Patrick
+    orcid: https://orcid.org/0000-0002-3009-8673
+  - family-names: Lewis
+    given-names: William
+    orcid: https://orcid.org/0000-0003-0509-8353
+title: "Examples for advanced data analysis in inertial confinement fusion and high energy density physics"
+version: 1.0.0
+date-released: 2023-04-04
